@@ -1,5 +1,5 @@
 
-# LAB 2: Wireshark for Network Traffic Analysis
+# LAB 0.1: Test Wireshark for Network Traffic Analysis
 
 ## **Objective**
 
